@@ -22,7 +22,7 @@ def main():
     goto(0,0)
     down()
     n = int(input('Глубина рекурсии (рекомендовано 3): '))
-    a = int(input('Длина стороны (рекомендовано 15: '))
+    a = int(input('Длина стороны (рекомендовано 15): '))
     star(n, a)
     hideturtle()
     mainloop()
