@@ -26,4 +26,5 @@ def main():
     star(n, a)
     hideturtle()
     mainloop()
+    
 main()
