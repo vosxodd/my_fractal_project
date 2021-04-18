@@ -1,5 +1,5 @@
 from turtle import *
-colors = ['red', 'blue', 'green', 'purple', 'pink', 'orange', 'red']
+colors = ['red', 'blue', 'green', 'purple', 'pink', 'orange']
 
 def star(order, size):
     pensize(5)
